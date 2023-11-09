@@ -1,0 +1,69 @@
+.cowin-con {
+  background-color: #161625;
+  min-height: 100vh;
+}
+
+.con {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding-left: 100px;
+}
+
+.inner-con {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: flex-start;
+}
+
+.cowin-head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 70%;
+}
+
+.background-con {
+  background-color: #6c7d78;
+}
+
+.cowin-head-para {
+  color: #2cc6c6;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.website-logo {
+  width: 50px;
+  height: 50px;
+}
+
+.con-para {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.failure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.head-failure {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
